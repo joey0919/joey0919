@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0919dh)](https://solved.ac/0919dh/)
 
-![image](https://github.com/joey0919/joey0919/assets/87600842/ab36b988-bde3-431e-a58b-f4f1747cd8db)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joey0919)](https://github.com/anuraghazra/github-readme-stats)
 
