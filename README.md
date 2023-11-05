@@ -35,5 +35,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/svn-F05032?style=for-the-badge&logo=svn&logoColor=white">
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0919dh)](https://solved.ac/0919dh/)
+<div align=center><h1>🏅 Baekjoon Solved Rank 🏅</h1></div>
+<div align=center>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0919dh)](https://solved.ac/0919dh/)
+</div>
+
 
