@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0919dh)](https://solved.ac/0919dh/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0919dh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joey0919&token=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)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joey0919)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
