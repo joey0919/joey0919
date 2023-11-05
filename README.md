@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&text=welcome&desc=donghee's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&text=welcome&desc=donghee's%20GitHub%20Profile)
 <!--
 **joey0919/joey0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
