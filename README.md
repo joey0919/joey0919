@@ -51,8 +51,3 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0919dh)](https://solved.ac/0919dh/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joey0919&token=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)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joey0919)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
