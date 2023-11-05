@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center><h1>🏅 Baekjoon Solved Rank 🏅</h1></div>
-<div align=center>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0919dh)](https://solved.ac/0919dh/)
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0919dh)](https://solved.ac/0919dh/)
 
 
