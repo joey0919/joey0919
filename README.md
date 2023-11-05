@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Curriculum Vitae</h1>
-<a href="https://read.cv/dhchun"></a>
+<h4>Curriculum Vitae</h4>
+<a href="https://read.cv/dhchun">https://read.cv/dhchun</a>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
