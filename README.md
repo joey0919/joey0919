@@ -50,3 +50,6 @@ Here are some ideas to get you started:
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0919dh)](https://solved.ac/0919dh/)
+
+![image](https://github.com/joey0919/joey0919/assets/87600842/ab36b988-bde3-431e-a58b-f4f1747cd8db)
+
